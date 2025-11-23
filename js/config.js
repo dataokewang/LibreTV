@@ -145,10 +145,6 @@ const API_SITES = {
       "api": "http://www.qilinzyz.com/api.php/provide/vod",
       "name": "麒麟资源"
     },     
-    "huyazy": {
-      "api": "https://www.huyaapi.com/api.php/provide/vod",
-      "name": "虎牙资源"
-    }, 
     "suonizy": {
       "api": "https://suoniapi.com/api.php/provide/vod",
       "name": "索尼资源"
